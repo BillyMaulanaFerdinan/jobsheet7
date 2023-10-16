@@ -32,6 +32,10 @@ public class DoWhileCuti06 {
                 }
                 
             }
+            else if (konfirmasi.equalsIgnoreCase("t")) {
+                System.out.println("bye-bye");
+            }
+
         }while (jatahCuti > 0);
 
     }
